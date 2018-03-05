@@ -1,0 +1,26 @@
+{
+  "name": "keyboard-layout-switch",
+  "version": "0.0.1",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dkunin/keyboard-layout-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dkunin/keyboard-layout-switch/issues"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "homepage": "https://github.com/dkunin/keyboard-layout-switch",
+  "keywords": [
+    "keyboard,",
+    "layout"
+  ],
+  "license": "MIT",
+  "description": "Automatically change keyboard layout result RUS/ENG.",
+  "devDependencies": {
+    "ava": "0.25.0"
+  }
+}
