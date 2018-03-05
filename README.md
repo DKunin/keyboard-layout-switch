@@ -6,11 +6,16 @@ Automatically change keyboard layout result RUS/ENG. For example when you want t
 
 ```
 
+    npm i keyboard-layout-switch
+
 ```
 
 ## Usage
 
 ```
+import kls from './';
+
+kls('тЕсТ') // nTcN
 ```
 
 ## Contribute
